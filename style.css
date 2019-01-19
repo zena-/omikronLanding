@@ -20,11 +20,11 @@
 
 #sustainable {
 	background: url(img/Sustainable.jpg) no-repeat;
-  	height: 39em;
-  	padding: 100px 0px 33px 10px;
-  	margin: 33px 0px 40px 205px;
-  	filter:hue-rotate(140deg);
-    background-size: 429px;
+  	height: 41em;
+    /* padding: 100px 0px 33px 10px; */
+    margin: 9px 0px 40px 705px;
+    filter: hue-rotate(140deg);
+    background-size: 590px;
 }
 .sustain{
 	padding: 37px 0px 0px;
