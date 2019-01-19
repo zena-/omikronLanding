@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Muli|Roboto:300|Syncopate:400,700|Offside');
+
+#nav{
+  padding: 0 30px;
+    position: fixed;
+    z-index: 1;
+    background: white;
+    width: 100%;
+    box-shadow: 0 0 1px whitesmoke;
+    margin-top: 0px;
+    font-family: 'Syncopate', sans-serif;
+}
+.btn{
+  margin: 20px 5px 0 0;
+}
+#navh1{
+  color:white;
+}
+
+
+#sustainable {
+	background: url(img/Sustainable.jpg) no-repeat;
+  	height: 39em;
+  	padding: 100px 0px 33px 10px;
+  	margin: 33px 0px 40px 205px;
+  	filter:hue-rotate(140deg);
+    background-size: 429px;
+}
+.sustain{
+	padding: 37px 0px 0px;
+}
+
+.imgg-text{
+	/*font-family: 'Muli', sans-serif;*/
+  font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+}
+
+#fonttwo0{
+  font-size: 30px;
+}
+
+
+#sustainable-h2{
+    font-size: 117px;
+    margin-left: 418px;
+    margin-top: 145px;
+    font-family: 'Offside', cursive;
+    letter-spacing: 40px;
+}
+
+.come{
+	font-family: 'Roboto', sans-serif;
+	margin: 130px 20px 100px 20px;
+}
+.comeTo{
+	/*font-family: 'Roboto', sans-serif;*/
+  font-family: 'Muli', sans-serif;
+  margin-bottom: 25px;
+}
+.why{
+	font-family: 'Roboto', sans-serif;
+  padding: 0 20px;
+}
+
+#why-p{
+  font-size: 20px;
+}
+
+section {
+	/*margin-bottom: 50px;*/
+	padding: 10px;
+}
+
+.glyphicon{
+  font-size: 120px;
+  padding: 35px 0;
+}
+
+.blue{
+  color: steelblue;
+}
+.grey{
+  color: slategray;
+}
+
+.line{
+  border-bottom: 1px dotted black;
+  float: right;
+  width: 165px;
+  margin-top: 93px;
+  transform: rotate(17deg);
+}
+
+#Pro-SB{
+  padding-right: 90px;
+}
+
+.sec-group{
+  /*margin: 140px 0;*/
+}
+
+#whyH2{
+  height: 100px;
+}
+
+a {
+  color: black;
+}
+footer {
+  background: lightsteelblue;
+  font-family: 'Syncopate', sans-serif;
+  padding: 25px 25px 30px;
+  font-size: 15px;
+}
