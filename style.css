@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Muli|Roboto:300|Syncopate:400,700|Offside');
+@import url('https://fonts.googleapis.com/css?family=Muli|Roboto:300|Syncopate:400,700');
 
 #nav{
   padding: 0 30px;
@@ -19,12 +19,12 @@
 
 
 #sustainable {
-	background: url(img/Sustainable.jpg) no-repeat;
+	background: url(img/cover.png) center center no-repeat;
   	height: 41em;
     /* padding: 100px 0px 33px 10px; */
-    margin: 9px 0px 40px 705px;
-    filter: hue-rotate(140deg);
-    background-size: 590px;
+    /*margin: 9px 0px 40px 705px;*/
+    /*filter: hue-rotate(140deg);*/
+    background-size: cover;
 }
 .sustain{
 	padding: 37px 0px 0px;
@@ -42,16 +42,21 @@
 
 
 #sustainable-h2{
-    font-size: 117px;
-    margin-left: 418px;
-    margin-top: 145px;
-    font-family: 'Offside', cursive;
-    letter-spacing: 40px;
+    font-size: 70px;
+    /* margin-left: 418px; */
+    margin-top: 47px;
+    font-family: 'Roboto', sans-serif;
+    color: steelblue;
+}
 }
 
 .come{
 	font-family: 'Roboto', sans-serif;
 	margin: 130px 20px 100px 20px;
+}
+#come{
+  font-family: 'Roboto', sans-serif;
+  margin: 130px 20px 100px 20px;
 }
 .comeTo{
 	/*font-family: 'Roboto', sans-serif;*/
