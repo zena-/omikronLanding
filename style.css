@@ -113,8 +113,8 @@ a {
   color: black;
 }
 footer {
-  background: lightsteelblue;
-  font-family: 'Syncopate', sans-serif;
-  padding: 25px 25px 30px;
-  font-size: 15px;
+  background: steelblue;
+  font-family: 'Roboto', sans-serif;
+  padding: 25px 0px 30px;
+  font-size: 17px;
 }
